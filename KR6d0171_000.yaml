@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6d0171/x/v1/juan/0
+seq: 0
+front:
+  text: 天台四教儀集注序天台四教儀者實教門之要道也自昔至今注釋者衆或略而不備或博而太繁矧又節去正文但標初後苟非精誦者莫之能閲也今集諸部之文注於其下將無便於披覽者歟其間一二與諸家有同異者蓋述所聞於先德非任胸臆也若夫文末正修初乘觀法文雖簡約理亦備焉諸新學人究心於茲忘言忘思筌俱擲奚以是為然能爾也則無適而不可亦豈離是云乎哉時元統甲戌夏五南天竺白蓮華沙門蒙潤謹序
+  hash: sha256:6914b3a02111cb75e8f9325b3d6e862c91293c32ef9f576177bd3aa4f159373a
+  markers:
+  - {type: 序, offset: 0, content: No. 978-A 天台四教儀集註序, id: KR6d0171_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四教儀集註科
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0978.xml
+    old_id: X57n0978
+hash: sha256:1e69ed19bd54b88ffc76cb879bcadf51e6ca4ea6a2f51c7c7adbc3fa9ba9b930

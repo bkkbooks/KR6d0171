@@ -1,0 +1,63 @@
+canonical_identifier: bkk:krp/KR6d0171/v1
+canonical_location: https://kanripo.org/bkk/KR6d0171/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 四教儀集註科
+  identifiers:
+    alt_id:
+    - X57n0978
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0978.xml
+    old_id: X57n0978
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0171_000.yaml, hash: 'sha256:1e69ed19bd54b88ffc76cb879bcadf51e6ca4ea6a2f51c7c7adbc3fa9ba9b930'}
+  - {seq: 1, filename: KR6d0171_001.yaml, hash: 'sha256:16c98dbc4e4497c01f7aae285c0d5b74090a3b988fadfc7bbf5651d325bdaeee'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0171_000.markers.yaml, hash: 'sha256:92968c21effc5f8a51d7dd1393ba39bace17f969926201caddd3ab7e24e04da6'}
+  - {seq: 1, role: markers, filename: assets/KR6d0171_001.markers.yaml, hash: 'sha256:ae24cd3748e56ac8220cb846279f4ff480daf9d665a42156a5c55d214719a5dd'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0171_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 978-A 天台四教儀集註序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0171_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3079
+  label: 天台四教儀科文
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0171_X_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 天台四教儀科文
+  type: mulu
+  level: 1
+hash: sha256:56ac1bb5d74c0fa58a0823241090e6ee0e2827ffa4a707710c9c9a8a50fc3fb9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
