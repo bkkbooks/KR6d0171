@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0171_000-X.yaml, hash: 'sha256:eac4236bc7083400b3273bc0b1f4c5ad9d5f8013cd7efa4191457859783ee40b'}
+  - {seq: 0, filename: KR6d0171_000-X.yaml, hash: 'sha256:c75f87e8950b6e7814baafd4363540e1f3fb65cfeca0b080c6ea44eaaa21a52a'}
   - {seq: 1, filename: KR6d0171_001-X.yaml, hash: 'sha256:982eda92ab1d4bf6ec38092889aa2829ae8869d8d96bfa75aa3bb044135ca3a3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0171_000-X.markers.yaml, hash: 'sha256:7aca613c26690170465aa5b49fc6b220dd8514154dd1c5f005111edf4ba57b11'}
+  - {seq: 0, role: markers, filename: assets/KR6d0171_000-X.markers.yaml, hash: 'sha256:aa96269eb7904f3234aacd90505eea36aa0c7d21334e64ff873d826e5e6c76bc'}
   - {seq: 1, role: markers, filename: assets/KR6d0171_001-X.markers.yaml, hash: 'sha256:61d73c247647ce54d7d29e66ace7e989eafd19c085682e52db5ae10ac270221e'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6d0171_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 978-A 天台四教儀集註序
@@ -55,4 +55,4 @@ table_of_contents:
   label: 天台四教儀科文
   type: mulu
   level: 1
-hash: sha256:cc5d431cf8ce212b64c1ed840b5e93489753b636c47fee79f92c58a7bfc8b5c4
+hash: sha256:108bb266242a7dbced3bd19fa2b4b703c59a2ac6fd3a8b34b7a5baa1943ae4df
